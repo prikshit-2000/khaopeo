@@ -128,7 +128,7 @@
 			
 				<div class="row">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-					//<h2 class="cursive-font primary-color">This is a demo site for sale. Contact startupcare@yahoo.com for purchase and visit www.startupcare.in for more info</h2>
+					
 					<p></p>
 				</div>
 			</div>
